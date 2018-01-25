@@ -1,0 +1,629 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: testimonial\n"
+"POT-Creation-Date: 2017-07-04 17:24+0530\n"
+"PO-Revision-Date: 2017-07-04 17:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\testimonial\\wp-content\\plugins\\wp-"
+"easy-testimonial\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\testimonial\\wp-content\\plugins"
+"\\wp-easy-testimonial\n"
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/class-item.php:77
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/admin_functions.php:24
+msgid "Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/admin_functions.php:25
+msgid "Testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:74
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:75
+msgid "WordPress Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:84
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:85
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/sections/sections.php:20
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:359
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/tabs/tabs.php:8
+msgid "Slider Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:92
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:93
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/sections/sections.php:23
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:430
+msgid "Theme Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:99
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:100
+msgid "Shortcodes"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:136
+msgid "WordPress Testimonial Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:162
+msgid "Theme Preview"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin-pages.php:163
+msgid "Preview all the themes and select one you like the most."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:90
+msgid "Add New Testimonial Item"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:91
+msgid "Edit Testimonial Item"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:92
+msgid "New Testimonial Item"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:93
+msgid "View Testimonial Item"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:94
+msgid "Search Testimonial Items"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:95
+msgid "Nothing found"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:96
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:120
+msgid "Search Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:121
+msgid "All Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:122
+msgid "Parent Category"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:123
+msgid "Parent Category:"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:124
+msgid "Edit Category"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:125
+msgid "Update Category"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:126
+msgid "Add New Category"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:127
+msgid "New Category Name"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-admin.php:128
+msgid "Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-column.php:55
+msgid "Rating"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-column.php:56
+msgid "Designation"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-column.php:57
+msgid "Shortcode"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-metabox.php:43
+#, php-format
+msgid "%1$s Clients Informations"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/class-etp-testimonials-manager-metabox.php:54
+msgid "Single Shortcode"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:17
+msgid "Shortcodes Attributes"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:20
+msgid "Short code attributes for showing list of testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:21
+msgid ""
+"For displaying list of testimonials use shortcode along with required "
+"parameters <strong>[wbr-list-testimonials theme='testimonial-default light']"
+"</strong>. Below find all the attributes and their respective values which "
+"can be used along with this shortcode."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:25
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:127
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:147
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:172
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:192
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:242
+msgid "Shortcode Attribute"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:26
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:128
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:148
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:173
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:193
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:243
+msgid "Values"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:27
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:129
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:149
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:174
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:194
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:244
+msgid "Theme attribute use"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:40
+msgid "Use to show all the testimonials of specific category."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:46
+msgid "For example use 400px or 80%"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:51
+msgid "Show testimonial author image."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:56
+msgid ""
+"\tSelect the alignment value to align testimonial author image. Default "
+"value is left."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:61
+msgid "\tUse for specifying testimonial author image."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:66
+msgid "Use for adding frame to author image."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:71
+msgid ""
+"You can also use Gravatar for author image. This can be fetched via email id "
+"added in testimonial. If you did not want to use either gravatar or image "
+"than this attribure is for you."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:76
+msgid "Use additional class for testimonials."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:81
+msgid "Use to show tesimonials in ascending or descending order."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:86
+msgid ""
+"Use for ordering users testimonials by testimonial post id, date published "
+"and modified."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:91
+msgid ""
+"Use for displaying limited number of testimonials. By default all the "
+"testimonials are shown."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:96
+msgid "Use to show tesimonial title which is on by default."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:101
+msgid "Use to show tesimonial published date which is on by default."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:106
+msgid ""
+"Use for limiting tesimonial content length. By default 45 words will be "
+"shown."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:111
+msgid ""
+"Use for changing text of read more button generated after crossing excerpt "
+"length. By default it show \"Read More\"."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:116
+msgid "Use to show All Testimonials button. "
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:122
+msgid "Short code for displaying <i>Single Testimonial</i>"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:123
+msgid "Use Shortcode:"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:123
+msgid ""
+"although id is the main attribute here but you can also use above parameters "
+"with this shortcode."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:136
+msgid ""
+"Use for showing particular tesimonial. Specify the testimonial type post id "
+"of the one you want to display."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:142
+msgid "Short code for displaying <i>Random Testimonials</i>"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:143
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:168
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:188
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:238
+msgid "Shortcode:"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:143
+msgid "This shortcode also supports many attributes."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:156
+msgid ""
+"Use to show set of random testimonials. By default 1 is shown. For showing 2 "
+"testimonials randomly assign 2 as a value of count attribute."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:161
+msgid "Use to show random testimonials of specific category."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:167
+msgid "Short code for displaying <i>Testimonials in Grid Layout</i>"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:168
+msgid "The main attribute of this shortcode is column."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:181
+msgid ""
+"Use for showing testimonials in a grid layout. Use value 3 for showing "
+"testimonials in a 3 column grid."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:187
+msgid "Short code for displaying <i>Testimonials Slider</i>"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:188
+msgid "Below find the main attributes"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:201
+msgid "Number of columns to show in tesimonial slider."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:206
+msgid "Use to change slider effects."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:211
+msgid "Use to manage navigation buttons."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:216
+msgid "Use to change label of <i>Next Button</i>"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:221
+msgid "Use to change label of <i>Previous Button</i>"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:226
+msgid "Use for showing slider pagination."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:231
+msgid ""
+"Useful for mobile devices. Scroll the slide by swiping fingure on your "
+"mobile device."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:237
+msgid "Short code for displaying <i>Count of Testimonials</i>"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/pages/page-shortcodes.php:251
+msgid ""
+"Use this attribute for fetching number of testimonials of specific category."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/partials/testimonial-post-meta-manager.php:23
+msgid "User Name :"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/partials/testimonial-post-meta-manager.php:26
+msgid "Please enter testimonial user name."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/partials/testimonial-post-meta-manager.php:31
+msgid "Email Address :"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/partials/testimonial-post-meta-manager.php:34
+msgid "Please enter valid email address."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/partials/testimonial-post-meta-manager.php:39
+msgid "Designation :"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/partials/testimonial-post-meta-manager.php:42
+msgid "Please enter client position for testimonial."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/partials/testimonial-post-meta-manager.php:47
+msgid "Ratings :"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/partials/testimonial-post-meta-manager.php:50
+msgid "Please select client rating."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/partials/testimonial-shortcode-manager.php:16
+msgid "Copy this shortoce and paste in post or pages to show your testimonial."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/sections/sections.php:14
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:210
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/tabs/tabs.php:7
+msgid "General Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/sections/sections.php:15
+msgid "Featured Image"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/sections/sections.php:16
+msgid "All Testimonials Button"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/sections/sections.php:17
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:348
+msgid "Custom CSS"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:216
+msgid "Exclude testimonials from search results"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:217
+msgid ""
+"Check this setting to exclude testimonials type content from search results."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:219
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:266
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:282
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:313
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:391
+msgid "Yes / No"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:223
+msgid "Excerpt Length"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:224
+msgid "Enter excerpt length. Default length is 45 words."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:229
+msgid "Excerpt \"Read More\" Text"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:230
+msgid "Change your readmore text from this setting."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:236
+msgid "Width"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:237
+msgid ""
+"Enter testimonial box width in pixel. For e.g. 400px or leave it blank to "
+"full width."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:243
+msgid "Custom Class"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:244
+msgid ""
+"Add custom css class to testimonial content wrapper. You may use this "
+"feature for custom styling."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:249
+msgid "Date Format"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:250
+msgid "Select date format."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:263
+msgid "Show testimonial author details before testimonial content."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:264
+msgid ""
+"Check this option to show testimonial author details above testimonial "
+"content."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:272
+msgid "Featured Image Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:278
+msgid "Hide author image."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:279
+msgid "Check this option for hiding testimonial author image."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:286
+msgid "Align"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:287
+msgid "Align author image. Default alignment is left"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:294
+msgid "Size of author image"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:302
+msgid "Image Effect"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:303
+msgid "You can also manage featured image style which you display image style."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:310
+msgid "Gravatar image"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:311
+msgid "If you want to show author's gravatar image? Please check this setting."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:320
+msgid "Configure all testimonials button"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:326
+msgid "Show all testimonials button"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:333
+msgid "Button label"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:334
+msgid "Specify button label in this setting"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:339
+msgid "Button link"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:340
+msgid "Specify URL of page showing all your testimonials."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:349
+msgid "Please enter your custom CSS code here. Without using <style> tag."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:365
+msgid "Columns"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:366
+msgid "Please select this settings to set columns."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:377
+msgid "Slide Effect"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:378
+msgid "Select among scroll and fade effects"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:387
+msgid "Hide Slider Navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:388
+msgid "Hide Prev and Next links from slider"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:395
+msgid "Next Link Text"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:402
+msgid "Previous Link Text"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:409
+msgid "Hide Slider Pagination"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:417
+msgid ""
+"Hide Slide Effect On dragging mouse or swiping fingure in mobile devices"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:436
+msgid "Select theme"
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:437
+msgid "Please select your theme to show your testimonials in different styles."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/settings/settings.php:668
+#, php-format
+msgid "The callback function used for the %s setting is missing."
+msgstr ""
+
+#: D:\xampp\htdocs\testimonial\wp-content\plugins\wp-easy-testimonial/includes/admin/tabs/tabs.php:9
+msgid "Themes"
+msgstr ""
