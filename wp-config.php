@@ -22,11 +22,6 @@
 /** Имя базы данных для WordPress */
 define('DB_NAME', 'grishagv_hse');
 
-/** Имя пользователя MySQL */
-define('DB_USER', 'grishagv_hse');
-
-/** Пароль к базе данных MySQL */
-define('DB_PASSWORD', '98199Pet');
 
 /** Имя сервера MySQL */
 define('DB_HOST', 'localhost');
